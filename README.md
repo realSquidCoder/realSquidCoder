@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @realSquidCoder
-      -YT: 
+      -YT: youtube.com/channel/UC_JFzMD1kx68kDnSve6CK_w (No videos, but I hope to rectify that soon...)
       -Twitter: @SquidCoder
       -Twitch: twitch.tv/squidcoder
 - 👀 I’m interested in ...
