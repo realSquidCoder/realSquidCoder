@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realSquidCoder
+- 👋 Hi, I’m Squid Coder
 
       YT: youtube.squidcoder.com
       Twitch: twitch.squidcoder.com
