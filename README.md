@@ -1,21 +1,19 @@
 - 👋 Hi, I’m @realSquidCoder
 
-      YT: youtube.com/@squidcoder (No videos, but I hope to rectify that soon...)
-      Twitter: @SquidCoder
-      Twitch: twitch.tv/squidcoder
+      YT: youtube.squidcoder.com
+      Twitch: twitch.squidcoder.com
 - 👀 I’m interested in ...
       
-      Minecraft, Java, Python, some others...
+      Java, Python, C++
 - 🌱 I’m currently learning ...
       
-      Minecraft Forge Modding
+      C++
 - 💞️ I’m looking to collaborate on ...
       
-      Forge Mods (so I can learn from others and maybe vice versa)
+      All manner of coding pojects. I always love a good puzzle to solve
 - 📫 How to reach me ... 
       
-      @SquidCoder on Twitter
-      (I have a Discord account, but you'll have to ask for that.)
+      Email me at squid@squidcoder.com
 
 <!---
 realSquidCoder/realSquidCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
