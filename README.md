@@ -1,6 +1,9 @@
+Inactive until stated otherwise, thanks for all the fun memories -Squid
+
+
 - 👋 Hi, I’m Squid Coder
 
-      YT: youtube.squidcoder.com
+      YT: https://www.youtube.com/@SquidCoder
       Twitch: twitch.squidcoder.com
 - 👀 I’m interested in ...
       
